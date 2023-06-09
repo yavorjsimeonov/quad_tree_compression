@@ -1,4 +1,5 @@
-// not comparing colour right resulting in not working
+// Status of the project:
+// - not comparing colour right resulting in not working
 // todo: fix the colour comparing function
 
 #include <stdio.h>
